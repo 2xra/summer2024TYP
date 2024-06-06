@@ -34,3 +34,4 @@ output_path = os.path.join(output_folder, output_filename)
 first_df.to_excel(output_path, index=False)
 
 print("Combined Excel file saved to:", output_path)
+print("remember to remove the first row")

@@ -8,6 +8,8 @@ __pycache__/
 *.xlsx
 *.dta
 *.csv
+*.xls
+helpmepleasenowfr.xls
 # Distribution / packaging
 .Python
 build/
